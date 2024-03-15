@@ -1,0 +1,60 @@
+html{
+    background-color: #0F1A2F;
+    color : white;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+.info{
+    text-align:center;
+}
+
+h1 {
+    text-align: right;
+}
+.navbar ul{
+    overflow: hidden;
+    list-style-type: none;
+    background-color: #BF4828;
+    padding: 0px;
+    margin: 0px;
+}
+.navbar a{
+    text-align:center;
+    color: white;
+    text-decoration: none;
+    padding: 20px;
+    display: block;
+}
+.navbar li{
+    float:left;
+}
+.navbar a:hover{
+    background-color: #AF3818;
+}
+
+div.gal {
+    margin: 5px;
+    border: 1px;
+    float: left;
+    width: 200px;
+    background-color: white;
+}
+div.gal img{
+    height: auto;
+    width: 100%;
+}
+.title{
+    margin: 5px;
+    color: #0F1A2F;
+}
+.desc{
+    font-size: 10;
+    margin: 5px;
+    color: #516ca0;
+}
+.link{
+    font-size: 11;
+    margin: 5px;
+    color: #0F1A2F;
+    
+}

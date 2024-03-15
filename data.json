@@ -1,0 +1,63 @@
+{
+    "videos":
+    [
+        {
+            "vid":
+            {
+                "location": "./images/mintjams.jpg",
+                "link": "https://www.youtube.com/watch?v=6GEI3PpXEAo",
+                "title": "Mint Jams",
+                "desc": "a good album"
+            }
+        },
+        {
+            "vid":
+            {
+                "location": "./images/sorting.png",
+                "link": "https://www.youtube.com/watch?v=kPRA0W1kECg&list=LL&index=193",
+                "title": "15 Sorting Algorithms in 6 minutes",
+                "desc": "visualizatiion of some examples of sorting algorithms"
+            }
+        },
+        {
+            "vid":
+            {
+                "location": "./images/mambulance.png",
+                "link": "https://www.youtube.com/shorts/OrGdlKFUVTo",
+                "title": "Monkey Ambulance",
+                "desc": "look at the funny monkeys go :)"
+            }
+        }
+    ],
+    "images":
+    [
+        {
+            "img":
+            {
+                "location": "./images/face.jpeg",
+                "link": "https://pbs.twimg.com/media/GIibs7tXQAA8jWR?format=jpg&name=900x900",
+                "title": "face on not face",
+                "desc": "man has face with sunglasses but not on his face but behind his face for unknown reasons"
+            }
+        },
+        {
+            "img":
+            {
+                "location": "./images/lastsupper.jpg",
+                "link": "https://commons.wikimedia.org/wiki/File:Leonardo_da_Vinci_-_The_Last_Supper_high_res.jpg",
+                "title": "The Last Supper",
+                "desc": "Leonardo da Vinci's rendition of the famous scene from the bible"
+            }
+        },
+        {
+            "img":
+            {
+                "location": "./images/110.png",
+                "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Sample_run_of_Rule_110_elementary_cellular_automaton%2C_starting_from_single_cell.png/330px-Sample_run_of_Rule_110_elementary_cellular_automaton%2C_starting_from_single_cell.png",
+                "title": "Rule 110",
+                "desc": "A unique case in which an 8-bit cellular automata is turing complete"
+            }
+        }
+    ]
+    
+}
